@@ -29,13 +29,13 @@ To start the game, run the _game.py_ script with Python 3. Command line argument
 - _-m <mode>_: Specify the game mode (_normal_ or _impossible_).
 
 For example, to start a game in normal mode with a custom word list, you would run:
-´´´
+```
 python3 game.py -m normal -w mywordlist.txt
 ```
 To use the bot, run the_ bot.py_ script with Python 3. The bot will prompt you for the current state of the game and then make a guess. The bot can be run in a loop to play an entire game.
 
 For example, to start the bot, you would run:
-´´´
+```
 python3 bot.py
 ```
 
