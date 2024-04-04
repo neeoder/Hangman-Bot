@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DeveloperToolsToolWindowSettingsV1" lastSelectedContentNodeId="text-case-transformer">
+    <developerToolsConfigurations>
+      <developerToolConfiguration developerToolId="text-case-transformer" id="7075261f-f06a-432c-ad50-a83f4fc53367" name="Workbench">
+        <properties>
+          <property key="outputTextCase" type="CONFIGURATION" value="dev.turingcomplete.intellijdevelopertoolsplugin._internal.tool.ui.transformer.TextCaseTransformer$TextCase|KEBAB_CASE" />
+        </properties>
+      </developerToolConfiguration>
+    </developerToolsConfigurations>
+    <expandedGroupNodeIds />
+  </component>
+</project>
