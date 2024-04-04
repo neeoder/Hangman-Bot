@@ -12,16 +12,16 @@ The game supports two modes:
 ### Word Lists
 The game supports custom word lists. Word lists can be specified using the -w command line argument followed by the path to the word list file. If no word list is specified, the game defaults to a built-in word list.
 
-###Language Support
+### Language Support
 The game supports both English and German languages. The language can be specified using the -l command line argument followed by the language code (en for English, de for German).
 
-###Visualizations
+### Visualizations
 The project includes a visualization tool that displays a bar chart of letter frequencies in the remaining possible words. This tool is implemented using the Pygame library.
 
-###Bot
+### Bot
 The project includes a bot that can play the game of Hangman. The bot uses a statistical approach to guess the most likely next letter based on the current state of the game.
 
-##Usage
+## Usage
 To start the game, run the _game.py_ script with Python 3. Command line arguments can be used to customize the game:
 
 - _-w <wordlist-path>_: Specify custom word list.
@@ -38,5 +38,5 @@ For example, to start the bot, you would run:
 python3 bot.py
 '''
 
-##Development
+## Development
 This project is actively being developed. New features and improvements are being added regularly. Contributions are welcome!
